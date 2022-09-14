@@ -11,7 +11,7 @@
 }
 
 body {
-    background-image: url(/Fylo/images/bg-mobile.png);
+    background-image: url(/images/bg-mobile.png);
     background-repeat: no-repeat;
     background-size: cover;
     padding: 18rem 0;
@@ -139,7 +139,7 @@ section {
     }
     body {
         background-color: var(--verydrkBlue);
-        background-image: url(/Fylo/images/bg-desktop.png);
+        background-image: url(/images/bg-desktop.png);
         background-repeat: no-repeat;
         background-size: 100%;
         background-position: bottom;
